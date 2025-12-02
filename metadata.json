@@ -1,0 +1,7 @@
+{
+  "name": "Siyu Snake",
+  "description": "A computer vision powered Snake game where the snake follows your fingertip. Features Siyu branding and AI-generated wisdom.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
