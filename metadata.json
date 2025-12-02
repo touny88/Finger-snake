@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Finger Snake",
+  "description": "A classic snake game where the snake follows your finger using computer vision, featuring AI commentary by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
